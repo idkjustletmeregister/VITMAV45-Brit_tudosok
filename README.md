@@ -4,7 +4,7 @@ Identification of defective manufacturing products with a convolutional autoenco
 
 ## Our team - Brit Tudósok
 
-Members:
+
 - Benjamin János Garzó [LP69C0]
 - Gergő Marcell Miklós [WE507Q]
 - Péter Herbai [RUS9IV]
