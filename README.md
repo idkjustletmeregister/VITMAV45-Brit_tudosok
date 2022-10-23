@@ -17,7 +17,7 @@ For this task we are training a Convolutional Autoencoder on images that contain
 
 ## User guide
 
-The source code of the project can be found in the .ipynb notebook.  
+The source code of the project can be found in the uploaded .ipynb notebook.  
 
 Or the notebook can be directly accessed by clicking this button:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nCDLOzFzrP03IASCQYzQp5aT-_WeTvar)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.kaggle.com/pirimidin/deep-learning-hw-milestone-1)
