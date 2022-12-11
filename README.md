@@ -26,5 +26,5 @@ The __final version__ of the source code can be found in the uploaded `deep_lear
 All the training and testing related methods, including downloading the data, can be found and executed inside the notebook (e.g. by clicking `run all`).
 
 Other versions:
-- Péter Herbai created a Tensorflow-based solution at `TF_SSIM_DCNN_AE.ipynb` (notebook)[https://github.com/idkjustletmeregister/VITMAV45-Brit_tudosok/blob/master/TF_SSIM_DCNN_AE.ipynb]
-- Benjamin János Garzó created a Trasfer learing-base solution at `asd` (notebook)[]
+- Péter Herbai created a Tensorflow-based solution at `TF_SSIM_DCNN_AE.ipynb` [notebook](https://github.com/idkjustletmeregister/VITMAV45-Brit_tudosok/blob/master/TF_SSIM_DCNN_AE.ipynb)
+- Benjamin János Garzó created a Trasfer learing-base solution at `asd` [notebook)[]
