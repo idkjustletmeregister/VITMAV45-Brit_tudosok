@@ -17,9 +17,9 @@ For this task we are training a Convolutional Autoencoder on images that contain
 
 ## User guide
 
-The updated source code of the project can be found in the uploaded `deep_learning_hw_milestone_2.ipynb` [notebook](https://github.com/idkjustletmeregister/VITMAV45-Brit_tudosok/blob/master/deep_learning_hw_milestone_2.ipynb).  
+The updated source code of the project can be found in the uploaded `deep_learning_hw_milestone_2.ipynb` [notebook](https://github.com/idkjustletmeregister/VITMAV45-Brit_tudosok/blob/master/deep_learning_hw_final.ipynb).  
 
 Or the notebook can be directly accessed in Google Colab by clicking this button:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Alwwnt0Ho4HYuWPxc6lluQ4NXnqPSC2s?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://www.kaggle.com/code/miklosgergely/deep-learning-hw-milestone-1-d45557?scriptVersionId=113550262)
 
 All the training and testing related methods can be found and executed inside the notebook.
