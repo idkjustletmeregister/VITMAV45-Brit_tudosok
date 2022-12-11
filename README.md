@@ -17,7 +17,7 @@ For this task we are training a Convolutional Autoencoder on images that contain
 
 ## User guide
 
-The __final version__ of the source code can be found in the uploaded `deep_learning_hw_final.ipynb` [notebook](https://github.com/idkjustletmeregister/VITMAV45-Brit_tudosok/blob/master/deep_learning_hw_final.ipynb).  
+The __final and primary version__ of the source code can be found in the uploaded `deep_learning_hw_final.ipynb` [notebook](https://github.com/idkjustletmeregister/VITMAV45-Brit_tudosok/blob/master/deep_learning_hw_final.ipynb).  
 
 - Our notebook can be directly accessed in Google Colab by clicking this button:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EEiczxAIUcx9nJNamHQ8Fp0j2JjWRmzn?usp=sharing)
