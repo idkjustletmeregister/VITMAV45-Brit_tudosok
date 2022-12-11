@@ -27,4 +27,4 @@ All the training and testing related methods, including downloading the data, ca
 
 Other versions:
 - Péter Herbai created a Tensorflow-based solution at `TF_SSIM_DCNN_AE.ipynb` [notebook](https://github.com/idkjustletmeregister/VITMAV45-Brit_tudosok/blob/master/TF_SSIM_DCNN_AE.ipynb)
-- Benjamin János Garzó created a Transfer learning-based solution at `transfer_learning_AE.ipynb` [notebook]((https://github.com/idkjustletmeregister/VITMAV45-Brit_tudosok/blob/master/transfer_learning_AE.ipynb),[kaggle](https://www.kaggle.com/garzobenjamin/deep-learning-hw-transfer-learning)
+- Benjamin János Garzó created a Transfer learning-based solution at `transfer_learning_AE.ipynb` [notebook](https://github.com/idkjustletmeregister/VITMAV45-Brit_tudosok/blob/master/transfer_learning_AE.ipynb),[kaggle](https://www.kaggle.com/garzobenjamin/deep-learning-hw-transfer-learning)
