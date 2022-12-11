@@ -27,4 +27,4 @@ All the training and testing related methods, including downloading the data, ca
 
 Other versions:
 - Péter Herbai created a Tensorflow-based solution at `TF_SSIM_DCNN_AE.ipynb` [notebook](https://github.com/idkjustletmeregister/VITMAV45-Brit_tudosok/blob/master/TF_SSIM_DCNN_AE.ipynb)
-- Benjamin János Garzó created a Transfer learing-base solution at `asd` [notebook)[]
+- Benjamin János Garzó created a Transfer learning-base solution at `asd` (notebook)[]
